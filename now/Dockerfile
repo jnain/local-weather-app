@@ -1,1 +1,1 @@
-FROM jnain/localcast-weather:0.0.0
+FROM jnain/local-weather-app:1.0.0
